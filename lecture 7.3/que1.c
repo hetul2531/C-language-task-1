@@ -17,4 +17,4 @@ int a,b,c,result;
   printf("the smallest number is : %d",result);
 
   return 0;
-}
+} 
